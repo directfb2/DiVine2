@@ -1,0 +1,7 @@
+DiVine2
+=======
+
+DiVine2 (DirectFB Virtual input extension) consists of:
+  - the DiVine input driver which reads raw input events from a pipe and dispatches them,
+  - the DiVine library which handles the connection to the input driver and provides an
+    interface for sending virtual events.
