@@ -1,0 +1,11 @@
+commit 6549ca6691b9fb865257c599fdb343d24848914e
+Author: Nicolas Caramelli <caramelli.devel@gmail.com>
+Date:   Wed Feb 1 09:29:45 2023 +0100
+
+    DirectFB Virtual input extension
+
+commit 092ad29d180a713b688b8b8dd72ad87355ddbf6c
+Author: Nicolas Caramelli <caramelli.devel@gmail.com>
+Date:   Wed Feb 1 09:16:08 2023 +0100
+
+    Initial revision
